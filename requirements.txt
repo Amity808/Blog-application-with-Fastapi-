@@ -1,0 +1,9 @@
+fastapi~=0.78.0
+uvicorn
+sqlalchemy~=1.4.37
+#hashing
+passlib[bcrypt]~=1.7.4
+pydantic~=1.9.1
+python-jose
+python-multipart
+pytest~=7.1.2
